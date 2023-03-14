@@ -1,16 +1,33 @@
-total 48
-drwxr-xr-x 2 root root 279 Mar 12 21:37 .
-drwxr-xr-x 6 root root 121 Mar 12 20:45 ..
--rwxrwxrwx 1 root root  32 Mar 12 20:55 0-hello_world
--rwxrwxrwx 1 root root  29 Mar 12 21:00 1-confused_smiley
--rwxrwxrwx 1 root root  28 Mar 12 21:03 2-hellofile
--rwxr-xr-x 1 root root  39 Mar 12 21:08 3-twofiles
--rwxrwxrwx 1 root root  35 Mar 12 21:10 4-lastlines
--rwxrwxrwx 1 root root  35 Mar 12 21:12 5-firstlines
--rwxrwxrwx 1 root root  41 Mar 12 21:21 6-third_line
--rwxrwxrwx 1 root root  86 Mar 12 21:35 7-file
--rwxrwxrwx 1 root root  36 Mar 12 21:37 8-cwd_state
--rw-r--r-- 1 root root  12 Mar 12 21:35 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root 916 Mar 12 21:14 iacta
--rw-r--r-- 1 root root   0 Mar 12 21:37 ls_cwd_content
--rw-r--r-- 1 root root  20 Mar 12 20:47 README.md
+total 116
+drwxr-xr-x 2 root root 4096 Mar 13 09:02 .
+drwxr-xr-x 6 root root  121 Mar 12 20:45 ..
+-rwxrwxrwx 1 root root   32 Mar 12 20:55 0-hello_world
+-rwxrwxrwx 1 root root   41 Mar 13 08:26 100-empty_casks
+-rwxrwxrwx 1 root root   95 Mar 13 08:46 101-gifs
+-rwxrwxrwx 1 root root   91 Mar 13 09:02 103-the_biggest_fan
+-rwxrwxrwx 1 root root   54 Mar 12 21:50 10-no_more_js
+-rwxrwxrwx 1 root root   35 Mar 12 22:06 11-directories
+-rwxrwxrwx 1 root root   31 Mar 12 22:09 12-newest_files
+-rwxrwxrwx 1 root root   27 Mar 12 22:16 13-unique
+-rwxrwxrwx 1 root root   40 Mar 12 22:19 14-findthatword
+-rwxrwxrwx 1 root root   47 Mar 12 22:20 15-countthatword
+-rwxrwxrwx 1 root root   45 Mar 13 07:53 16-whatsnext
+-rwxrwxrwx 1 root root   42 Mar 12 22:42 17-hidethisword
+-rwxrwxrwx 1 root root   48 Mar 12 22:50 18-letteronly
+-rwxrwxrwx 1 root root   28 Mar 12 22:56 19-AZ
+-rwxrwxrwx 1 root root   29 Mar 12 21:00 1-confused_smiley
+-rwxrwxrwx 1 root root   21 Mar 12 23:06 20-hiago
+-rwxrwxrwx 1 root root   16 Mar 12 23:09 21-reverse
+-rwxrwxrwx 1 root root   46 Mar 13 08:02 22-users_and_homes
+-rwxrwxrwx 1 root root   28 Mar 12 21:03 2-hellofile
+-rwxr-xr-x 1 root root   39 Mar 12 21:08 3-twofiles
+-rwxrwxrwx 1 root root   35 Mar 12 21:10 4-lastlines
+-rwxrwxrwx 1 root root   35 Mar 12 21:12 5-firstlines
+-rwxrwxrwx 1 root root   41 Mar 12 21:21 6-third_line
+-rwxrwxrwx 1 root root   86 Mar 12 21:35 7-file
+-rwxrwxrwx 1 root root   36 Mar 12 21:37 8-cwd_state
+-rwxrwxrwx 1 root root   37 Mar 12 21:40 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Mar 12 21:35 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Mar 12 21:40 iacta
+-rw-r--r-- 1 root root    0 Mar 13 14:16 ls_cwd_content
+-rw-r--r-- 1 root root   19 Mar 12 22:33 README.md
