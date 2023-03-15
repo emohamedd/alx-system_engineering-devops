@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "${WATER}${STIR}" | base64
+echo -n "${WATER}${STIR}"
